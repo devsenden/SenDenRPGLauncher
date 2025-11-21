@@ -1,6 +1,6 @@
-# SenDen RPG Launcher – Giới thiệu & Hướng dẫn cho người chơi
+# SenDen Craft Launcher – Giới thiệu & Hướng dẫn cho người chơi
 
-SenDen RPG Launcher là ứng dụng chính thức giúp bạn kết nối nhanh đến thế giới Minecraft SenDen RPG. Tất cả nội dung, gói tài nguyên và cập nhật sẽ được tải tự động, vì vậy bạn chỉ cần đăng nhập và chơi. Dưới đây là hướng dẫn sử dụng dành cho người chơi.
+SenDen Craft Launcher là ứng dụng chính thức giúp bạn kết nối nhanh đến thế giới Minecraft SenDen RPG. Tất cả nội dung, gói tài nguyên và cập nhật sẽ được tải tự động, vì vậy bạn chỉ cần đăng nhập và chơi. Dưới đây là hướng dẫn sử dụng dành cho người chơi.
 
 ---
 
